@@ -15,11 +15,11 @@ Its name is quicksand.
 Thiese are the two panels i want to finish. I plan on finishing the quicksand at the end of 2026
 and okefenokee at the end of 2027 hopefully.
 
-![jjsr17.github.io/assets/images/Serge2panel.HEIC]
+![Serge Two Panel](/assets/images/Serge2panel.jpg)
 
 this is a picture of the quicksand's pcb mount prior to finishing the vcfq.
 
-![jjsr17.github.io/assets/images/SergeInsidePCB.HEIC]
+![Serge wiring ](/assets/images/SergeInsidePCB.jpg)
 
 I recently finished building the vcfq . I used the Ian fritz pcb for transistor matching.
 
@@ -31,13 +31,11 @@ I recently finished building the vcfq . I used the Ian fritz pcb for transistor 
 
 ![CGS 508 Gain cell calibration](/assets/images/SergeCgs508gaincellcalibration.jpg)
 
-![CGS 508 Gain cell calibration](assets/images/SergeCgs508gaincellcalibration.jpg)
+![CGS 508 Gain cell calibration](/assets/images/SergeCGS508gaincellalibration2.jpg)
 
-![CGS 508 Gain cell calibration](assets/images/SergeCGS508gaincellcalibration2.jpg)
+![CGS 508 Gain cell calibration](/assets/images/SergeCGS508gaincellcalibration3.jpg)
+![CGS 508 Gain cell calibration](/assets/images/SergeCgs508gaincellcalibration4.jpg)
 
-![CGS 508 Gain cell calibration](assets/images/SergeCGSgaincellcalibration3.jpg)
-
-![CGS 508 Gain cell calibration](/assets/images/SergeCgsCalibration4.jpg)
 
 
 
@@ -50,7 +48,7 @@ Hopefully ill get them in the next two weeks and then it is on to to the last mo
 
 ![Serge CGS 514 lower pcb](/assets/images/SergeCGS514PassiveLower.jpg)
 
-![[Serge CGS 514 upper pcb](/assets/images/SergeCgs514passivesupper.jpg)
+![Serge CGS 514 upper pcb](/assets/images/SergeCgs514passivesupper.jpg)
 
 
 
