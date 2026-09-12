@@ -25,19 +25,19 @@ I recently finished building the vcfq . I used the Ian fritz pcb for transistor 
 
 
 
-![jjsr17.github.io/assets/images/IanFritzTransistorMatcher.JPG]
+![Ian Fritz Transistor Matcher](/assets/images/IanFritzTransistorMatcher.JPG)
 
-![jjsr17.github.io/assets/images/IanFritzTransistorMatchertest.HEIC]
+![Ian Fritz Transitor Matcher Rig](/assets/images/IanFritzTransistorMatchertest.jpg)
 
-![jjsr17.github.io/assets/images/SergeCgs508gaincellcalibration.HEIC]
+![CGS 508 Gain cell calibration](/assets/images/SergeCgs508gaincellcalibration.jpg)
 
-![jjsr17.github.io/assets/images/SergeCgs508gaincellcalibration.HEIC]
+![CGS 508 Gain cell calibration](assets/images/SergeCgs508gaincellcalibration.jpg)
 
-![jjsr17.github.io/assets/images/SergeCGS508Calibration2.HEIC]
+![CGS 508 Gain cell calibration]assets/images/SergeCGS508Calibration2.jpg]
 
-![jjsr17.github.io/assets/images/SergeCGScalibration3.HEIC]
+![CGS 508 Gain cell calibration](assets/images/SergeCGScalibration3.jpg)
 
-![jjsr17.github.io/assets/images/SergeCgsCalibration4.HEIC]
+![CGS 508 Gain cell calibration](/assets/images/SergeCgsCalibration4.jpg)
 
 
 
@@ -48,10 +48,9 @@ and then matched
 I am also in the process of building the DUSG module. I just got the passives done today . I need to order the correct size resistors.
 Hopefully ill get them in the next two weeks and then it is on to to the last module for the panel which is the mixer.
 
-![jjsr17.github.io/assets/images/SergeCGS514PassiveLower.HEIC]
+![Serge CGS 514 lower pcb]/assets/images/SergeCGS514PassiveLower.jpg)
 
-![jjsr17.github.io/assets/images/SergeCgs514passivesupper.HEIC]
-
+![[Serge CGS 514 upper pcb](/assets/images/SergeCgs514passivesupper.jpg)
 
 
 
