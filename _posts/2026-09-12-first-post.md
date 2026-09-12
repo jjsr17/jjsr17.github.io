@@ -33,9 +33,9 @@ I recently finished building the vcfq . I used the Ian fritz pcb for transistor 
 
 ![CGS 508 Gain cell calibration](assets/images/SergeCgs508gaincellcalibration.jpg)
 
-![CGS 508 Gain cell calibration]assets/images/SergeCGS508Calibration2.jpg]
+![CGS 508 Gain cell calibration](assets/images/SergeCGS508gaincellcalibration2.jpg)
 
-![CGS 508 Gain cell calibration](assets/images/SergeCGScalibration3.jpg)
+![CGS 508 Gain cell calibration](assets/images/SergeCGSgaincellcalibration3.jpg)
 
 ![CGS 508 Gain cell calibration](/assets/images/SergeCgsCalibration4.jpg)
 
@@ -48,7 +48,7 @@ and then matched
 I am also in the process of building the DUSG module. I just got the passives done today . I need to order the correct size resistors.
 Hopefully ill get them in the next two weeks and then it is on to to the last module for the panel which is the mixer.
 
-![Serge CGS 514 lower pcb]/assets/images/SergeCGS514PassiveLower.jpg)
+![Serge CGS 514 lower pcb](/assets/images/SergeCGS514PassiveLower.jpg)
 
 ![[Serge CGS 514 upper pcb](/assets/images/SergeCgs514passivesupper.jpg)
 
