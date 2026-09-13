@@ -10,19 +10,17 @@ Hello!
 
 I decided to create a blog in github displaying my projects.
 I am currently trying to finish a serge panel.
-Its name is quicksand.
 
-Thiese are the two panels i want to finish. I plan on finishing the quicksand at the end of 2026
-and okefenokee at the end of 2027 hopefully.
+
+These are the two panels I plan on finishing. The quicksand panel at the I am looking at completing at the end of 2026 and the Okefenokee panel at the end of 2027 hopefully.
 
 ![Serge Two Panel](/assets/images/Serge2panel.jpg)
 
-this is a picture of the quicksand's pcb mount prior to finishing the vcfq.
+This is a picture of the Quicksand's pcb mount prior to me finishing the vcfq.
 
 ![Serge wiring ](/assets/images/SergeInsidePCB.jpg)
 
-I recently finished building the vcfq . I used the Ian fritz pcb for transistor matching.
-
+I used the Ian fritz pcb for transistor matching.
 
 
 ![Ian Fritz Transistor Matcher](/assets/images/IanFritzTransistorMatcher.JPG)
@@ -39,12 +37,10 @@ I recently finished building the vcfq . I used the Ian fritz pcb for transistor 
 
 
 
-It was fairly straightforward after the testing circuit was built. The transistors hi and low ranges were jotted 
-
-and then matched 
+It was fairly straightforward after the testing circuit was built. The transistor's hi and low ranges were measured and then matched .
 
 I am also in the process of building the DUSG module. I just got the passives done today . I need to order the correct size resistors.
-Hopefully ill get them in the next two weeks and then it is on to to the last module for the panel which is the mixer.
+Looking to get them in the next two weeks and then i want to finish the last module for the panel which is the mixer.
 
 ![Serge CGS 514 lower pcb](/assets/images/SergeCGS514PassiveLower.jpg)
 
