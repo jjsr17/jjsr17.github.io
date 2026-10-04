@@ -6,9 +6,9 @@ date: 2026-10-04
 
 Hello!
 
-This weekend I attempte to finish the CGS 514 and CGS 108 builds I am working on.
-I had to put them in pause because once i checked the electrolytics' size for the DUSG and the header. 
-I noticed the electrolytics were too big. I have to order smaller ones(from 11mm to 6mm ones).
+This weekend I attempted to finish the CGS 514 and CGS 108 builds I am working on.
+I had to put them in pause because once i checked the electrolytic capacitor's size for the DUSG and the header. 
+I noticed the electrolytic capacitor were too big. I have to order smaller ones(from 11mm to 6mm ones).
 
 
 ![DUSG CGS 514 Lower Board](/assets/images/2026-10-04-DUSGLOWERBOARDPASSIVES.JPG)
